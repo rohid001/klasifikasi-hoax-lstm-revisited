@@ -1,0 +1,11 @@
+{
+  "max_len": 379,
+  "vocab_size": 28707,
+  "embedding_dim": 300,
+  "pad_token": "<PAD>",
+  "unk_token": "<UNK>",
+  "label_map": {
+    "VALID": 0,
+    "HOAX": 1
+  }
+}
