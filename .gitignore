@@ -1,0 +1,23 @@
+# Large pretrained FastText model files -- download via notebook 02, see README
+*.bin
+*.bin.gz
+*.vec
+*.vec.gz
+
+# Trained model checkpoint is small enough (~35-40MB, embedding 300d + 2-layer LSTM) to
+# commit normally. If yours exceeds 100MB, use Git LFS instead of committing directly:
+#   git lfs track "*.pt"
+
+# Jupyter / notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
