@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C)](https://pytorch.org)
 
 > **Status: Active revision.** This is an independent, corrected re-implementation of
-> [`klasifikasi-hoax-lstm-glove`](#) (archived original), built to fix methodological issues
+> [`klasifikasi-hoax-lstm-glove`](https://github.com/rohid001/klasifikasi-hoax-lstm-glove.git) (archived original), built to fix methodological issues
 > found in that repository's published pipeline. See
 > [`docs/METHODOLOGY_AND_FINDINGS.md`](docs/METHODOLOGY_AND_FINDINGS.md) for the full writeup.
 
