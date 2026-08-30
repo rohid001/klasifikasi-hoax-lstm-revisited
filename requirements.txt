@@ -1,0 +1,18 @@
+# Core
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Deep learning
+torch
+torchvision
+torchaudio
+
+# Word embeddings (official Facebook Research library)
+fasttext
+
+# Notebook / progress utilities
+tqdm
+nbformat
