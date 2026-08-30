@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-Same dataset as the [original repository](#) — 9,534 Indonesian political news articles
+Same dataset as the [original repository](https://github.com/rohid001/klasifikasi-hoax-lstm-glove.git) — 9,534 Indonesian political news articles
 (8,234 `VALID` from detik.com, 1,300 `HOAX` from turnbackhoax.id), already cleaned and stemmed.
 See `notebooks/01_data_audit.ipynb` for the full data quality audit, including a significant
 documented limitation: **41.7% of `HOAX` articles begin with the same fact-check site
